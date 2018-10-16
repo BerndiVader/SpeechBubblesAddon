@@ -1,0 +1,5 @@
+name: SpeechBubblesAddon
+main: com.gmail.berndivader.speechbubblesaddon.SpeechBubblesAddon
+version: ${version}
+softdepend: []
+depend: [MythicMobs, HolographicDisplays]
